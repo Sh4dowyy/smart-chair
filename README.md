@@ -11,6 +11,8 @@ Foto 1. Projekt enne jootmist
 
 <img width="931" alt="image" src="https://github.com/user-attachments/assets/2e304f6c-f88f-4856-b420-7e529ebe1c6e">
 
+
+
 Foto 2. Jootmise protsess
 
 <img width="532" alt="image" src="https://github.com/user-attachments/assets/e178f675-8596-46cf-9463-ef90c1a30174">
