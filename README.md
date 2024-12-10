@@ -18,4 +18,4 @@ Foto 2. Jootmise protsess
 <img width="532" alt="image" src="https://github.com/user-attachments/assets/e178f675-8596-46cf-9463-ef90c1a30174">
 
 
-
+Dokumentatsioon: https://docs.google.com/document/d/1bqWl7Tkv1bi0_a200Mx3EwWC97bEUf7waXmYzVV6ths/edit?tab=t.0
